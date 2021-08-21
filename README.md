@@ -2,7 +2,7 @@
 
 ### **About me:**   
 
-- I'm always willing to learn, I've been Developing mainly for FiveM for under 8 Months and still learning. :)
+- I'm always willing to learn, I've been Developing mainly for FiveM for 8 Months and still learning. :)
 
 - 🔭 I’m currently working on: FiveM Developing & learning further into Lua.
 - 📫 How to reach me: On discord, NS100#0001 :)
@@ -24,15 +24,13 @@
 - Bradley - https://github.com/bradley1337
 - Tronix - https://github.com/AxelTronix
 
-I am currently contracted as a developer for multiple servers! 
 
 ## Join the servers I own, here!
 
-- https://discord.gg/loaded
-- https://discord.gg/loadedrz
-- https://discord.gg/tragedyrp
-- https://discord.gg/purifyrp
-- https://discord.gg/myrp
+- https://discord.gg/sinrp
+- https://discord.gg/vcac
+- https://discord.gg/nsdev
+
 
 ![NS's github stats](https://github-readme-stats.vercel.app/api?username=NSFivem&show_icons=true&theme=radical)
 
