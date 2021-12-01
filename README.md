@@ -9,10 +9,6 @@
 
 ### **I own ND Development / ND Hosting**
 
-- 💻 We offer great ready servers to go! (Expanding to VPS's and Dedicated Servers VERY soon!)
-- 🖥️ Check us out here! https://ndhosts.com
-- 👨‍💻 Join the discord for more updates! https://discord.gg/ndhosts  
-
 ## **ND Development: One of the largest fivem development shops!**
 
 - 💻 We offer a large variety of Developmnet services on FiveM all the way from the 100k or die community to the serios rp community
@@ -21,14 +17,12 @@
 - 💻 Check out my website! https://ns100.xyz
 
 ## 💻 **Development Teams Github!**
-- Bradley - https://github.com/bradley1337
 - Tronix - https://github.com/AxelTronix
 
 
 ## Join the servers I own, here!
 
-- https://discord.gg/sinrp
-- https://discord.gg/vcac
+- https://discord.gg/purify
 - https://discord.gg/nsdev
 
 
