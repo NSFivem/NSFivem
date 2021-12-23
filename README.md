@@ -2,12 +2,12 @@
 
 ### **About me:**   
 
-- I'm always willing to learn, I've been Developing mainly for FiveM for 8 Months and still learning. :)
+- I'm always willing to learn, I've been Developing mainly for FiveM for 13 Months and still learning. :)
 
-- 🔭 I’m currently working on: FiveM Developing & learning further into Lua.
+- 🔭 I’m currently working on: FiveM Developing & learning further into Lua, html, css, js.
 - 📫 How to reach me: On discord, NS100#0001 :)
 
-### **I own ND Development / ND Hosting**
+### **I Founded ND Development**
 
 ## **ND Development: One of the largest fivem development shops!**
 
@@ -18,12 +18,6 @@
 
 ## 💻 **Development Teams Github!**
 - Tronix - https://github.com/AxelTronix
-
-
-## Join the servers I own, here!
-
-- https://discord.gg/purify
-- https://discord.gg/nsdev
 
 
 ![NS's github stats](https://github-readme-stats.vercel.app/api?username=NSFivem&show_icons=true&theme=radical)
